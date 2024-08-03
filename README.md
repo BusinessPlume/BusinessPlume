@@ -34,6 +34,21 @@ Nous croyons en la puissance de la collaboration. Si vous êtes intéressé par 
 - **Site Web** : [www.businessplume.fr](https://www.businessplume.fr)
 - **Email** : thibault@businessplume.fr
 
+## 🌐 Réseaux Sociaux
+
+Suivez-nous sur nos différentes plateformes pour rester à jour avec nos dernières actualités, conseils et astuces :
+
+- [Facebook](https://www.facebook.com/people/Agence-Web-SEO-Business-Plume/61563305650879/)
+- [X (Twitter)](https://x.com/BusinessPlume)
+- [LinkedIn](https://www.linkedin.com/company/business-plume)
+- [Medium](https://medium.com/@businessplume)
+- [Reddit](https://www.reddit.com/user/Businessplume/)
+- [Twitch](https://www.twitch.tv/businessplume)
+  
+
+N'hésitez pas à nous suivre, nous contacter ou partager notre contenu sur ces plateformes. Nous sommes toujours ravis d'interagir avec notre communauté !
+
+
 ## 📄 Licence
 
 © 2024 Business Plume. Tous droits réservés.
